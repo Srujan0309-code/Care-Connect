@@ -62,7 +62,6 @@ Ensure you have [Node.js](https://nodejs.org/) installed (v18.0.0 or higher is r
 ### 1. Install Dependencies
 Navigate to the project directory and install the package dependencies:
 ```bash
-cd careconnect
 npm install
 ```
 
@@ -83,7 +82,7 @@ To compile the files for a production deployment:
 npm run build
 ```
 
-This creates an optimized, minified bundle inside the `careconnect/dist/` directory, ready to be deployed.
+This creates an optimized, minified bundle inside the `dist/` directory, ready to be deployed.
 
 ---
 
